@@ -256,17 +256,24 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+about_archive:
+  type: liquid
+  path: /about/
+  
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
     - categories
     - tags
+    - about
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
+    about: about_taxonomy
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+    about: /about/:name/
 
 
 # HTML Compression
