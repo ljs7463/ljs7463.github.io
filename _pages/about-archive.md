@@ -6,5 +6,5 @@ author_profile : true
 sidebar_main: true
 ---
 
-테스트입니다.
+![about정보](C:\github\ljs7463.github.io\images\about-archive\about정보.png)
 
