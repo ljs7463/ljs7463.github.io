@@ -151,7 +151,7 @@ my_function(firstNum: int, secondNum: int)
 자세할 수록 좋다고 생각한다.
 
 
-# 3. 나는 둘다~
+# 3. 나는 둘다
 그렇다면 docstring과 어노테이션중에 어떤것을 써야할까??
 정답은 둘 다 쓰면좋다고 한다. docstring과 어노테이션은 서로 보완적인 관계에 있다고 보면 될 것 같다.
 
