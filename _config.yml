@@ -13,12 +13,13 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-header:
-  image: screenshot-layouts.png
+
 # Site Settings
 locale                   : "en-US"
 title                    : "데이터로 보는 세상"
 title_separator          : "|"
+header:
+  overlay_image: screenshot-layouts.png
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "생각하는 마리오네트"
 description              : "하고싶은 것을 즐겁게"
