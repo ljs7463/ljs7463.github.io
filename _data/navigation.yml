@@ -15,33 +15,33 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
-  - title: python
-    children:
-      - title: "python"
-        url: python/
-        category: "python"
-      - title: "Apache-nifi"
-        url: Apache-nifi/
-        category: "Apache-nifi"
-      - title: "Apache-Airflow"
-        url: Apache-Airflow/
-        category: "Apache-Airflow"
-      - title: "aws"
-        url: aws/
-        category: "aws"
+# docs:
+#   - title: python
+#     children:
+#       - title: "python"
+#         url: python/
+#         category: "python"
+#       - title: "Apache-nifi"
+#         url: Apache-nifi/
+#         category: "Apache-nifi"
+#       - title: "Apache-Airflow"
+#         url: Apache-Airflow/
+#         category: "Apache-Airflow"
+#       - title: "aws"
+#         url: aws/
+#         category: "aws"
 
-  - title: 부동산
-    children:
-      - title: "현황"
-        url: 현황/
-        category: "현황"
+#   - title: 부동산
+#     children:
+#       - title: "현황"
+#         url: 현황/
+#         category: "현황"
 
-  - title: 시각화
-      - title: "부동산"
-        url: real-estate/
-        category: "부동산"
-  - title: 혼자성장하기
-      - title: "cleancode"
-        url: cleancode/
-        category: "cleancode"
+#   - title: 시각화
+#       - title: "부동산"
+#         url: real-estate/
+#         category: "부동산"
+#   - title: 혼자성장하기
+#       - title: "cleancode"
+#         url: cleancode/
+#         category: "cleancode"
