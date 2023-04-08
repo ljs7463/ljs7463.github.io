@@ -2,7 +2,7 @@
 layout: single
 title: "[파이썬 클린코드] 코드 문서화(Documentation)"
 categories : 혼자성장하기
-tags : Python, cleancode
+tags : Python cleancode
 ---
 
 > INDEX
