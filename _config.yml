@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "데이터로 보는 세상"
 title_separator          : "|"
 header:
-  overlay_image: screenshot-layouts.png
+  overlay_image: /images/logo/비트코인이미지.jpg
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "생각하는 마리오네트"
 description              : "하고싶은 것을 즐겁게"
