@@ -3,6 +3,7 @@ layout: single
 title: "부동산 수요,공급 대시보드"
 categories : 시각화 부동산
 tags : tableau 현황 
+typora-root-url: ../
 ---
 
 ## 부동산 시장 수요, 공급 대시보드 
