@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ljs7463.github.io/sitemap.xml
